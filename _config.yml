@@ -132,7 +132,7 @@ author:
       # url: "https://instagram.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-       #url: "www.linkedin.com/in/luiz-depaula-2018"
+       url: "www.linkedin.com/in/luiz-depaula-2018"
 
 # Site Footer
 footer:
