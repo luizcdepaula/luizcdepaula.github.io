@@ -4,5 +4,5 @@ permalink: /portfolio/
 title: "Portfolio"
 author_profile: true
 header:
-  image: "/images/waste_landing_page.jpg"
+  image: "/images/waste_disposal.JPG"
 ---
