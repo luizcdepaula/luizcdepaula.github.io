@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Luiz DePaula"
-  avatar           : # path of avatar image, e.g. "/docs/assets/images/bio-photo.jpg"
+  avatar           : "/images/Eu.jpg" # path of avatar image, e.g. "/docs/assets/images/bio-photo.jpg"
   bio              : "Data Visualization Portfolio"
   location         : "Norwalk, CT"
   email            : "depaulasap@gmail.com"
@@ -130,8 +130,8 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+    # - label: "LinkedIn"
+    #  icon: "fab fa-fw fa-linkedin"
       # url: "www.linkedin.com/in/luiz-depaula-2018"
 
 # Site Footer
