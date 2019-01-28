@@ -111,7 +111,7 @@ author:
   bio              : "Data Visualization Portfolio"
   location         : "Norwalk, CT"
   email            : "depaulasap@gmail.com"
-  linkedin         : "Luiz DePaula" # "luiz-depaula-2018"
+  linkedin         : "luiz-depaula-2018"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
