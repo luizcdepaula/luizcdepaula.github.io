@@ -130,9 +130,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    # - label: "LinkedIn"
-    #  icon: "fab fa-fw fa-linkedin"
-      # url: "www.linkedin.com/in/luiz-depaula-2018"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      # url: "https://linkedin.com/in/luiz-depaula-2018/"
 
 # Site Footer
 footer:
