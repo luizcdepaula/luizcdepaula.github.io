@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Luiz DePaula"
-  avatar           : "/images/eu_marilia.JPG" # path of avatar image, e.g. "/docs/assets/images/bio-photo.jpg"
+  avatar           : "/images/eu_marilia2.JPG" # path of avatar image, e.g. "/docs/assets/images/bio-photo.jpg"
   bio              : "Data Visualization Portfolio"
   location         : "Norwalk, CT"
   email            : "depaulasap@gmail.com"

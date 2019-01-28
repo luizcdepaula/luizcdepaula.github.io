@@ -4,7 +4,7 @@ permalink: /portfolio/
 title: "Portfolio"
 author_profile: true
 header:
-  image: "/images/waste_disposal.JPG"
+  image: "/images/family_sun_sky2.JPG"
 ---
 I am a data visualization expert who excels in creating stories presenting data and visualization
 for easy understanding of complex contexts.
