@@ -107,13 +107,13 @@ analytics:
 # Site Author
 author:
   name             : "Luiz DePaula"
-  avatar           : "\images\eu.jpg" # path of avatar image, e.g. "/docs/assets/images/bio-photo.jpg"
+  avatar           : "/images/eu.jpg" # path of avatar image, e.g. "/docs/assets/images/bio-photo.jpg"
   bio              : "Data Visualization Portfolio"
   location         : "Norwalk, CT"
   email            : "depaulasap@gmail.com"
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "envelope-square"
       # url: mailto:depaulasap@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
