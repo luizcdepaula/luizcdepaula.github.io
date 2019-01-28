@@ -303,4 +303,4 @@ defaults:
       type: pages
     values:
       layout: single
-      author profile: true
+      author_profile: true
